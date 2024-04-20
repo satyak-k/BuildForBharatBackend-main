@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+#Custom code to ignore below files
+/api/__pycache__/
+/api/migrations/
+/bharatBackend_proj/__pycache__/
